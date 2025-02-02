@@ -74,8 +74,8 @@
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xhRaF_tMoTgy2h4PzyXJ-66" target="xhRaF_tMoTgy2h4PzyXJ-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-66" value="Application Submission time 20-30 second" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="894" y="-137" width="120" height="47" as="geometry" />
+        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-66" value="Application Submission time 20-30 second due to very generic checks" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="894" y="-137" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xhRaF_tMoTgy2h4PzyXJ-67" target="xhRaF_tMoTgy2h4PzyXJ-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -104,10 +104,10 @@
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-73" value="SFS for field work" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-74" value="Distributed load in multiple OS and Adding extra pages reducing AST (Average consumer screen time)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-74" value="Distributed load in multiple OS and Adding extra pages reducing ACST (Average consumer screen time)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="470" y="-180" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-76" value="0.007% failure due to some pending implementation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-76" value="0.007% failure&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1080" y="-190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-77" value="4-6 seconds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
