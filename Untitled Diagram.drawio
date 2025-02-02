@@ -96,7 +96,7 @@
           <mxGeometry x="960" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-33" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1540" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-34" value="Direct Debit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="20" width="120" height="60" as="geometry" />
