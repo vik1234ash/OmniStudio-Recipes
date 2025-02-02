@@ -69,14 +69,46 @@
         <mxCell id="WT15TES9iAEyX-zyvtR5-3" value="SAP CRM/ISU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-4" target="WT15TES9iAEyX-zyvtR5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-4" value="WestPac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="951" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-12" target="WT15TES9iAEyX-zyvtR5-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-12" target="WT15TES9iAEyX-zyvtR5-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="120" />
+              <mxPoint x="890" />
+              <mxPoint x="1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-12" target="WT15TES9iAEyX-zyvtR5-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="120" />
+              <mxPoint x="890" />
+              <mxPoint x="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849.97" y="119.93" as="sourcePoint" />
+            <mxPoint x="1609.97" y="19.93" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="899.97" y="119.93" />
+              <mxPoint x="899.97" y="-0.07" />
+              <mxPoint x="1609.97" y="-0.07" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-12" value="Salesforce Customer Details Page ( Agent View)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WT15TES9iAEyX-zyvtR5-16" value="WestPac" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.408;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-3" target="WT15TES9iAEyX-zyvtR5-2">
           <mxGeometry relative="1" as="geometry" />
@@ -86,23 +118,32 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WT15TES9iAEyX-zyvtR5-30" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="WT15TES9iAEyX-zyvtR5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-30" target="WT15TES9iAEyX-zyvtR5-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT15TES9iAEyX-zyvtR5-31" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WT15TES9iAEyX-zyvtR5-30" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WT15TES9iAEyX-zyvtR5-32" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="WT15TES9iAEyX-zyvtR5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-33" target="WT15TES9iAEyX-zyvtR5-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WT15TES9iAEyX-zyvtR5-33" value="Make a Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WT15TES9iAEyX-zyvtR5-33" value="Payment Arrangement" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1540" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-34" target="WT15TES9iAEyX-zyvtR5-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-34" value="Direct Debit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WT15TES9iAEyX-zyvtR5-35" target="WT15TES9iAEyX-zyvtR5-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WT15TES9iAEyX-zyvtR5-35" value="Adhoc Refund" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WT15TES9iAEyX-zyvtR5-36" value="SAP CRM/ISU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
