@@ -80,7 +80,7 @@
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xhRaF_tMoTgy2h4PzyXJ-67" target="xhRaF_tMoTgy2h4PzyXJ-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-67" value="&amp;nbsp;transaction in final submit call" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="xhRaF_tMoTgy2h4PzyXJ-67" value="Heavy payload transaction in final submit call" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="889" y="-60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhRaF_tMoTgy2h4PzyXJ-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xhRaF_tMoTgy2h4PzyXJ-68" target="xhRaF_tMoTgy2h4PzyXJ-50" edge="1">
